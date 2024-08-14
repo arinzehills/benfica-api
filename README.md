@@ -1,15 +1,16 @@
-# Brain World Mobile APP
 
-This is a brainworld mobile written in flutter. it's is mobile e-learning app.
+### Node.js Backend (`backend/README.md`)
 
-##App functionalities##
+```markdown
+# Benfica Social - Node.js Backend
 
-- **Purchase Courses**
-- **Purchase Books**
-- **Save personal Books**
-- **Chat system**
-- **Video conferencing/Virtual classrooms**
-- **Video call**
-- **Voice internet call**
+This is the backend of the Benfica Social application, built with Node.js and Express.js.
 
-![Brain world logo](images/brainworld-logo.png)
+## Setup Instructions
+
+### Installation
+
+1. Navigate to the `backend` directory:
+
+   ```bash
+   cd backend
