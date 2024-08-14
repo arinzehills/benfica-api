@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+
+# Environment variables
+.env
+
+# Build directories
+dist/
+build/
+
+# Operating system files
+.DS_Store
+
+# Optional: Ignore package-lock.json or yarn.lock if not required
+# package-lock.json
+# yarn.lock
